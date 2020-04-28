@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/containernetworking/cni v0.6.0 // indirect
 	github.com/go-logr/logr v0.1.0
-	github.com/intel/multus-cni v0.0.0-20190127194101-cd6f9880ac19
+	github.com/intel/multus-cni v3.4.1
 	github.com/onsi/ginkgo v1.10.1
 	github.com/onsi/gomega v1.7.0
 	github.com/prometheus/procfs v0.0.8 // indirect
